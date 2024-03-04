@@ -8,7 +8,7 @@ public class SkTestApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("Printed");
+		System.out.println("Wow Printed");
 		SpringApplication.run(SkTestApplication.class, args);
 	}
 
